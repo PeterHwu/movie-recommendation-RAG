@@ -24,3 +24,7 @@ sqlparse
 typing_extensions
 yarl
 zipp
+numpy
+chromadb
+sentence-transformers
+opencv-python
