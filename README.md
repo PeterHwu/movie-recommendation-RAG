@@ -4,6 +4,7 @@ Project that preprocesses movie data and implements a Retrieval-Augmented Genera
 - Chroma (vector DB)
 - sentence-transformers for embeddings
 - optional OpenCV preprocessing and other utilities
+- Scraper for movie data
 
 Quick start
 1. Create virtual env:
